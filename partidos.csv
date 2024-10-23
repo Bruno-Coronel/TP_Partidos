@@ -1,0 +1,101 @@
+id,estadio,fecha,clubA,clubB,resultado
+1,Rempel Inc,25/03/2024,The Diamond Club,The Diamond Club,3-1
+2,VonRueden Inc,14/02/2024,The Lucky Clover Club,The Silver Star Club,2-0
+3,"Kessler, Hackett and Braun",29/02/2024,The Sapphire Society Club,The Diamond Club,0-0
+4,Barrows-Rolfson,15/01/2024,The Golden Gate Club,The Diamond Club,2-1
+5,Wilderman-Beier,20/03/2024,The Diamond Club,The Diamond Club,0-1
+6,Grimes Group,26/01/2024,The Platinum Club,The Lucky Clover Club,3-2
+7,"Wolff, Harvey and Zieme",15/02/2024,The Golden Gate Club,The Emerald City Club,2-1
+8,Okuneva-Pouros,25/02/2024,The Lucky Clover Club,The Royal Flush Club,4-3
+9,Bruen-Gusikowski,18/03/2024,The Sapphire Society Club,The Golden Gate Club,3-1
+10,"Hayes, Kozey and West",14/01/2024,The Platinum Club,The Royal Flush Club,3-2
+11,O'Kon-Roob,05/03/2024,The Crystal Ball Club,The Lucky Clover Club,1-0
+12,Graham-Schroeder,20/01/2024,The Silver Star Club,The Lucky Clover Club,1-0
+13,Reichel Group,06/03/2024,The Crystal Ball Club,The Royal Flush Club,0-0
+14,Gutkowski-Reichel,22/03/2024,The Golden Gate Club,The Sapphire Society Club,1-1
+15,"Kunze, Block and Bashirian",21/01/2024,The Silver Star Club,The Emerald City Club,4-3
+16,Larson LLC,17/02/2024,The Royal Flush Club,The Platinum Club,3-1
+17,"Boyer, Goodwin and Hyatt",04/03/2024,The Golden Gate Club,The Bronze Lion Club,3-2
+18,"Gulgowski, O'Conner and Christiansen",30/03/2024,The Diamond Club,The Sapphire Society Club,1-0
+19,Pollich Group,21/03/2024,The Emerald City Club,The Royal Flush Club,0-1
+20,Lockman Inc,22/03/2024,The Diamond Club,The Sapphire Society Club,3-2
+21,Brown Inc,27/03/2024,The Emerald City Club,The Platinum Club,4-3
+22,Buckridge-Lebsack,09/02/2024,The Royal Flush Club,The Silver Star Club,0-0
+23,"Bernhard, Bruen and Gutkowski",24/03/2024,The Platinum Club,The Lucky Clover Club,1-0
+24,Kerluke-Gerhold,14/02/2024,The Royal Flush Club,The Emerald City Club,2-2
+25,Luettgen Inc,30/01/2024,The Platinum Club,The Bronze Lion Club,1-1
+26,Ferry Inc,24/03/2024,The Crystal Ball Club,The Silver Star Club,2-0
+27,"Donnelly, Littel and Funk",02/01/2024,The Lucky Clover Club,The Diamond Club,2-1
+28,Lebsack Inc,02/01/2024,The Royal Flush Club,The Lucky Clover Club,2-2
+29,Johnston Group,24/02/2024,The Emerald City Club,The Lucky Clover Club,3-2
+30,Steuber LLC,07/01/2024,The Sapphire Society Club,The Silver Star Club,3-2
+31,Davis-Bergnaum,24/03/2024,The Bronze Lion Club,The Royal Flush Club,1-0
+32,Lebsack-Langworth,28/03/2024,The Silver Star Club,The Lucky Clover Club,1-1
+33,"Wolf, Cruickshank and Lueilwitz",10/02/2024,The Platinum Club,The Lucky Clover Club,2-0
+34,Schulist LLC,17/02/2024,The Bronze Lion Club,The Bronze Lion Club,2-0
+35,Maggio LLC,15/02/2024,The Sapphire Society Club,The Golden Gate Club,2-1
+36,Herzog and Sons,01/03/2024,The Emerald City Club,The Diamond Club,1-1
+37,Tromp LLC,13/03/2024,The Crystal Ball Club,The Crystal Ball Club,2-0
+38,"Kling, Kemmer and Schultz",09/03/2024,The Platinum Club,The Diamond Club,1-1
+39,"Schultz, Lemke and Ebert",23/02/2024,The Emerald City Club,The Crystal Ball Club,1-1
+40,Cronin-Mueller,10/02/2024,The Bronze Lion Club,The Diamond Club,1-0
+41,"Cummerata, Jacobs and Bergnaum",10/03/2024,The Lucky Clover Club,The Golden Gate Club,2-0
+42,"Mayert, Steuber and Sauer",07/02/2024,The Silver Star Club,The Emerald City Club,3-2
+43,Anderson-Grimes,11/01/2024,The Golden Gate Club,The Sapphire Society Club,0-0
+44,Runte Inc,20/02/2024,The Golden Gate Club,The Silver Star Club,0-1
+45,"Rohan, Swift and Davis",26/01/2024,The Golden Gate Club,The Golden Gate Club,4-3
+46,Schneider-Crist,18/01/2024,The Diamond Club,The Golden Gate Club,3-1
+47,Leuschke LLC,27/03/2024,The Bronze Lion Club,The Diamond Club,2-0
+48,Gusikowski Group,10/01/2024,The Diamond Club,The Bronze Lion Club,3-1
+49,Trantow-Lemke,16/03/2024,The Crystal Ball Club,The Golden Gate Club,1-0
+50,Lehner LLC,21/03/2024,The Royal Flush Club,The Emerald City Club,4-3
+51,"Ledner, Hackett and Blick",22/02/2024,The Lucky Clover Club,The Crystal Ball Club,4-3
+52,"VonRueden, Bogan and Cremin",24/03/2024,The Emerald City Club,The Royal Flush Club,3-2
+53,"Champlin, Hansen and Sipes",18/02/2024,The Emerald City Club,The Sapphire Society Club,4-3
+54,"Padberg, Rolfson and Effertz",22/03/2024,The Silver Star Club,The Emerald City Club,4-3
+55,"Bednar, Leffler and Grant",07/03/2024,The Silver Star Club,The Crystal Ball Club,3-1
+56,Fadel Group,11/02/2024,The Emerald City Club,The Emerald City Club,1-1
+57,Hermann Group,27/02/2024,The Lucky Clover Club,The Diamond Club,1-1
+58,Hoeger Group,09/02/2024,The Silver Star Club,The Bronze Lion Club,2-0
+59,Farrell and Sons,14/02/2024,The Diamond Club,The Emerald City Club,1-0
+60,Abshire Group,08/01/2024,The Silver Star Club,The Crystal Ball Club,3-2
+61,"Turner, Abbott and Dibbert",01/02/2024,The Emerald City Club,The Bronze Lion Club,3-1
+62,"Kreiger, Legros and Kunde",28/03/2024,The Diamond Club,The Silver Star Club,1-0
+63,Johnson-Witting,29/01/2024,The Royal Flush Club,The Crystal Ball Club,0-1
+64,Padberg and Sons,21/01/2024,The Platinum Club,The Sapphire Society Club,1-1
+65,Gorczany-Maggio,13/03/2024,The Bronze Lion Club,The Silver Star Club,2-1
+66,"Raynor, Sporer and Marks",10/01/2024,The Emerald City Club,The Diamond Club,2-1
+67,Schimmel-Gutmann,22/03/2024,The Sapphire Society Club,The Platinum Club,0-1
+68,Stark-Herzog,11/01/2024,The Emerald City Club,The Silver Star Club,3-1
+69,McCullough-Denesik,07/02/2024,The Platinum Club,The Royal Flush Club,3-1
+70,Sauer Group,01/02/2024,The Silver Star Club,The Crystal Ball Club,2-1
+71,"Krajcik, McGlynn and Baumbach",19/01/2024,The Emerald City Club,The Sapphire Society Club,1-1
+72,Carter and Sons,21/02/2024,The Emerald City Club,The Lucky Clover Club,2-1
+73,Rau-Towne,28/03/2024,The Golden Gate Club,The Diamond Club,2-0
+74,Willms-Schumm,02/01/2024,The Emerald City Club,The Crystal Ball Club,3-2
+75,Goodwin and Sons,08/03/2024,The Sapphire Society Club,The Sapphire Society Club,2-1
+76,"Moore, Wolff and Lang",14/03/2024,The Golden Gate Club,The Silver Star Club,2-0
+77,"Kertzmann, Hand and Blanda",01/03/2024,The Bronze Lion Club,The Platinum Club,2-2
+78,"Bednar, Gottlieb and Leannon",10/03/2024,The Emerald City Club,The Golden Gate Club,2-0
+79,"Hauck, Torphy and Shields",26/02/2024,The Golden Gate Club,The Lucky Clover Club,0-1
+80,"Romaguera, Koss and Leuschke",29/01/2024,The Bronze Lion Club,The Platinum Club,0-1
+81,"Klocko, Gutmann and Kling",03/02/2024,The Diamond Club,The Royal Flush Club,2-1
+82,"Fisher, Lynch and Schinner",19/01/2024,The Sapphire Society Club,The Platinum Club,0-1
+83,Haley-Schmidt,16/01/2024,The Golden Gate Club,The Golden Gate Club,2-1
+84,Zboncak and Sons,02/01/2024,The Golden Gate Club,The Royal Flush Club,2-2
+85,"Bauch, Gerlach and Will",14/02/2024,The Royal Flush Club,The Emerald City Club,4-3
+86,"Littel, Balistreri and Wyman",12/02/2024,The Platinum Club,The Bronze Lion Club,2-0
+87,"Olson, O'Kon and Kunde",09/01/2024,The Lucky Clover Club,The Diamond Club,1-0
+88,Torphy-Friesen,26/01/2024,The Bronze Lion Club,The Crystal Ball Club,3-1
+89,Runolfsdottir-Sanford,17/02/2024,The Bronze Lion Club,The Diamond Club,3-2
+90,"Little, Windler and Conn",15/03/2024,The Royal Flush Club,The Silver Star Club,0-1
+91,Kirlin Group,09/03/2024,The Lucky Clover Club,The Emerald City Club,1-0
+92,Yundt-Altenwerth,24/03/2024,The Crystal Ball Club,The Golden Gate Club,1-0
+93,Dooley-Collins,16/01/2024,The Emerald City Club,The Sapphire Society Club,3-2
+94,Prosacco-Dicki,06/01/2024,The Sapphire Society Club,The Emerald City Club,3-2
+95,Gutkowski LLC,27/02/2024,The Crystal Ball Club,The Silver Star Club,2-2
+96,"Conroy, Fritsch and Hodkiewicz",18/01/2024,The Silver Star Club,The Lucky Clover Club,3-2
+97,"Kuvalis, Ledner and Cole",24/03/2024,The Lucky Clover Club,The Crystal Ball Club,2-1
+98,"Borer, Schoen and Hilll",05/02/2024,The Silver Star Club,The Lucky Clover Club,3-2
+99,"Homenick, Cruickshank and Moore",12/02/2024,The Emerald City Club,The Sapphire Society Club,2-1
+100,Hintz-Erdman,09/03/2024,The Royal Flush Club,The Diamond Club,3-2
